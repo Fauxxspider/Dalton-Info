@@ -5,7 +5,8 @@ public class Main {
       int eingabe = scanner.nextInt();
       switch(eingabe) {
         case 1: {
-            System.out.println("The mandalorian");
+            System.out.println("The mandalorian
+            ");
             break; 
         }
         case 2: {
